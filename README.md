@@ -20,6 +20,22 @@ Sou comunicativo, curioso, gosto de ensinar (e aprender!) e estou sempre buscand
 
 ---
 
+### 🛠 Tecnologias que utilizo
+
+<p>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" />
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/48/000000/github-2.png" alt="GitHub" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" />
+</p>
+
+---
+
 ### 📫 Onde me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/johnnyfaria92/)
